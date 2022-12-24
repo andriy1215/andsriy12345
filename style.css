@@ -1,0 +1,85 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    border-radius: 9px;
+    border:5px solid blue;
+    padding: 5px;
+
+}header a{
+    border-radius: 4px;
+    border: solid blue;
+    background-color: blue;
+    color: white;
+    text-decoration:none;
+}
+
+main h1{
+    text-align: center;
+    color: blue;
+    background-color: cyan;
+    border-radius: 5px;
+}
+
+.d{
+    border: 2px solid DimGrey;
+}
+
+.a{
+    border: 2px solid DimGrey;
+}
+
+.m{
+    border: 2px solid DimGrey;
+}
+
+nav a{
+    color: white;
+    border: darkgreen solid 1px;
+    text-decoration: none;
+    padding: 5px;
+    margin: 16px;
+}
+
+nav{
+   margin: 15px;  
+   background-color: darkgreen;
+   padding: 6px;
+   border-radius: 5px;
+}
+
+.q{
+    border-radius: 10px;
+    border: 3px solid blue;
+    padding: 6px;
+}
+
+.and{
+    border: 1px solid darkturquoise;
+    border-radius: 10px;
+}
+
+.qw{
+    color: blue;
+}
+
+.con{
+    text-decoration: none;
+    border: 3px solid blue;
+    padding: 5px;
+}
+
+.ak{
+    color: blue;
+}
+
+.pro{
+    color: blue;
+}
+
+.h{
+    text-decoration: none;
+    border: 3px solid blue;
+    padding: 5px;
+}
